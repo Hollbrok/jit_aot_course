@@ -13,6 +13,14 @@ cmake --build ./ -j4
 ./build/src/MAIN
 ```
 
+## Run tests
+
+```
+./build/src/test_dfo
+./build/src/test_dsu
+./build/src/test_dom_tree
+```
+
 ## Dump
 
 ```
